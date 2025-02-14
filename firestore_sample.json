@@ -1,0 +1,27 @@
+{
+    "users": {
+      "user_123": {
+        "name": "Alice"
+      },
+      "user_456": {
+        "name": "Bob"
+      }
+    },
+    "messages": {
+      "user_456": {
+        "chats": {
+          "msg_1": {
+            "senderId": "user_123",
+            "message": "Hello, Bob!",
+            "timestamp": 1707858300
+          },
+          "msg_2": {
+            "senderId": "user_456",
+            "message": "Hey Alice, how are you?",
+            "timestamp": 1707858360
+          }
+        }
+      }
+    }
+  }
+  
