@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "587036477083",
+    "project_id": "chatmessage-5a32c",
+    "storage_bucket": "chatmessage-5a32c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587036477083:android:d814bc87fd6580e19e683e",
+        "android_client_info": {
+          "package_name": "com.example.chatmessage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn2KAw9wpntzBzMIRw3GhKPyiswNzlw6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
