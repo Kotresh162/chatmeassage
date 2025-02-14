@@ -3,14 +3,33 @@
 A new Flutter project.
 
 ## Getting Started
+# How to install
+git clone it
 
-This project is a starting point for a Flutter application.
+cd chatmessage
 
-A few resources to get you started if this is your first Flutter project:
+flutter pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Technologies used
+- Flutter
+-Firabase
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# depedecies used
+firebase auth,firebase_core,get
+
+# databses structure
+firestore
+/users/{userId}
+/messages/{chatId}/chats/{messageId}
+# flow of the 
+signinscreen // if u already registerd
+signupscreen // to register to the platform
+home screen // will displays the names of users registerd to platform
+chat screen // will displays the chat between users
+
+
+@copywrite kotreshhiremath2025
+
+
+
+
